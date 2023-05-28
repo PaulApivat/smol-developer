@@ -11,3 +11,4 @@ def square(x):
 def main():
     print("the square is", square.call(42))
 
+print("---- re-ran get_started.py on Modal's remote server. ----")
